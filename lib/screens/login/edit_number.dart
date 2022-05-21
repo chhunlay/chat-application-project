@@ -42,7 +42,7 @@ class _EditNumberState extends State<EditNumber> {
               ),
               Center(
                   child: const Logo(width: 70.0, height: 70.0, radius: 30.0)),
-              Text("Verification",
+              Text("Verifications",
                   // textAlign: TextAlign.center,
                   style: TextStyle(
                       color: const Color(0xFF08C187).withOpacity(0.7),
