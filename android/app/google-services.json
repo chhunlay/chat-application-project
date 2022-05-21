@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1093876954187",
+    "project_id": "chhunlay-chat-app-09",
+    "storage_bucket": "chhunlay-chat-app-09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093876954187:android:3795fe040a1241a12e49ce",
+        "android_client_info": {
+          "package_name": "com.example.chhunlay_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093876954187-v4b9fnfj8v744eme8s8pduhoh7m5i0nj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwNNxQgi2ObQuTWhRuA1XksAxYDWsd-Ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093876954187-v4b9fnfj8v744eme8s8pduhoh7m5i0nj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
